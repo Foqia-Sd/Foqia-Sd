@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Foqia Siddiqui
-- 👀 I’m interested in web development, AI, Web3, and the Metaverse
+- 👀 I’m interested in web development, AI, Agentic AI
 - 🌱 I’m currently learning Next.js and advanced JavaScript frameworks
-- 💞️ I’m looking to collaborate on innovative projects involving web applications, AI, or blockchain technologies
+- 💞️ I’m looking to collaborate on innovative projects involving web applications, AI, or Agentic AI
 - 📫 How to reach me: foqia.sd99@gmail.com
 - ⚡ Fun fact: I love exploring futuristic tech and experimenting with AI in creative ways!
 
