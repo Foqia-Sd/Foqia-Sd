@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Foqia Siddiqui
 - 👀 I’m interested in web development, AI, Agentic AI
-- 🌱 I’m currently learning Next.js and advanced JavaScript frameworks
+- 🌱 I’m currently learning Next.js and advanced AI concepts
 - 💞️ I’m looking to collaborate on innovative projects involving web applications, AI, or Agentic AI
 - 📫 How to reach me: foqia.sd99@gmail.com
 - ⚡ Fun fact: I love exploring futuristic tech and experimenting with AI in creative ways!
